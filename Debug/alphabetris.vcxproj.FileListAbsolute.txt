@@ -1,0 +1,2 @@
+C:\Users\chris\source\repos\alphabetris\Debug\alphabetris.exe
+C:\Users\chris\source\repos\alphabetris\Debug\alphabetris.pdb
