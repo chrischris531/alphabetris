@@ -1,8 +1,0 @@
-﻿  alphabetris.cpp
-C:\Users\chris\source\repos\alphabetris\alphabetris.cpp(88,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\chris\source\repos\alphabetris\alphabetris.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\chris\source\repos\alphabetris\alphabetris.cpp(156,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\chris\source\repos\alphabetris\alphabetris.cpp(171,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\chris\source\repos\alphabetris\alphabetris.cpp(193,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\chris\source\repos\alphabetris\alphabetris.cpp(220,21): warning C4018: '<': signed/unsigned mismatch
-  alphabetris.vcxproj -> C:\Users\chris\source\repos\alphabetris\Debug\alphabetris.exe
